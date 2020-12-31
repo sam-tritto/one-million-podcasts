@@ -22,24 +22,11 @@ Analyzing over one million podcasts taken from the Spotify API.
 ![Image description](https://github.com/sam-brady/one-million-podcasts/blob/master/images/Screen%20Shot%202020-05-27%20at%2010.11.58%20AM.png)
 
 
-![Image description](https://github.com/sam-brady/one-million-podcasts/blob/master/images/Screen%20Shot%202020-05-27%20at%2010.21.12%20AM.png)
-
-
-![Image description](https://github.com/sam-brady/one-million-podcasts/blob/master/images/Screen%20Shot%202020-05-27%20at%2010.22.08%20AM.png)
-
-
-
-![Image description](https://github.com/sam-brady/one-million-podcasts/blob/master/images/Screen%20Shot%202020-05-27%20at%206.13.59%20PM.png)
-
 
 
 ![Image description](https://github.com/sam-brady/one-million-podcasts/blob/master/images/Screen%20Shot%202020-05-27%20at%207.41.02%20PM.png)
 
-![Image description](https://github.com/sam-brady/one-million-podcasts/blob/master/images/Screen%20Shot%202020-05-27%20at%2010.24.08%20AM.png)
 
-
-
-![Image description](https://github.com/sam-brady/one-million-podcasts/blob/master/images/Screen%20Shot%202020-05-27%20at%2010.26.03%20AM.png)
 
 
 
